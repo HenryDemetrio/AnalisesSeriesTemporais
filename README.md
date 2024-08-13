@@ -26,7 +26,3 @@ Este projeto requer as seguintes bibliotecas Python:
 - `matplotlib`
 - `scipy`
 
-Instale as dependências utilizando:
-
-```bash
-pip install numpy matplotlib scipy
