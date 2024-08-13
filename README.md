@@ -1,6 +1,11 @@
 # Análise de Séries Temporais
 
-Este repositório contém scripts e notebooks para diferentes tipos de análises de séries temporais. O objetivo é fornecer uma coleção de métodos para a análise, ajuste de modelos e previsão de dados temporais.
+Este repositório oferece uma variedade de scripts e notebooks voltados para a análise de séries temporais. O propósito é disponibilizar uma coleção de métodos para:
+
+Análise de Dados Temporais: Técnicas para explorar e interpretar séries temporais.
+Ajuste de Modelos: Métodos para ajustar modelos estatísticos ou de aprendizado de máquina aos dados.
+Previsão de Dados: Ferramentas para prever valores futuros com base em dados passados.
+
 
 ## Estrutura do Repositório
 
